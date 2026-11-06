@@ -57,3 +57,7 @@ Churn dataset, included. The columns are described below.
 - re_linked_account- Has the user re linked account
 - un_linked_account - Has the user un linked account
 - credit_score - Customer's credit score
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (Predicting_Customer_Churn_in_Bank) that differ from the files above.
